@@ -1,6 +1,8 @@
 = Jekyll AsciiDoc Quickstart
 :toc:
 
+image:https://travis-ci.org/jcayouette/jekyll-asciidoc-quickstart.svg?branch=master["Build Status", link="https://travis-ci.org/jcayouette/jekyll-asciidoc-quickstart"]
+
 The Jekyll AsciiDoc Quickstart project is a leg-up in starting your own website hosted on GitHub with content based in AsciiDoc.  This project combines the power of AsciiDoc with a beautiful CSS framework and blog-ready template on top of GitHub's existing publishing infrastructure.
 
 == Directions
